@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "projeto-atividade-03-alterado-02",
   "version": "1.0.3",
+=======
+  "name": "projeto-atividade-03-alterado",
+  "version": "1.0.2",
+>>>>>>> develop
   "description": "Atividade prática 3 - Lista de tarefas Git/GitHub  /  Malu Calland 2314290066",
   "main": "index.js",
   "scripts": {
