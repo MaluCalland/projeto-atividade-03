@@ -1,0 +1,12 @@
+{
+  "name": "projeto-atividade-03",
+  "version": "1.0.0",
+  "description": "Atividade prática 3 - Lista de tarefas Git/GitHub  /  Malu Calland 2314290066",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
